@@ -1,0 +1,12 @@
+{
+  "name": "unicorn",
+  "version": "1.0.0",
+  "description": "Nuxtjs components using Vue + Tailwind",
+  "main": "index.js",
+  "scripts": {
+    "start": "markserv"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
