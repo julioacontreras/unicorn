@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/julioacontreras/unicorn/doc/assets/img/logo.png?raw=true" width="120" alt="Kraken Logo" />
+  <img src="https://github.com/julioacontreras/unicorn/doc/assets/img/logo.png?raw=true" width="120" alt="Unicorn Logo" />
 </p>
 
 # Unicorn
