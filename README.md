@@ -8,6 +8,11 @@
 
 [Nuxtjs](https://nuxtjs.org/) components using [Vue](https://vuejs.org/v2/guide/) and [TailwindCSS](https://tailwindcss.com/)
 
+
+### Version
+
+* Alpha 0.0.1
+
 ### Components
 
 ```
@@ -21,3 +26,7 @@
      |-- sections
      |-- template
 ```
+
+### How to use
+
+* Download this repository and copy in your NuctJs project `compoenents`.
