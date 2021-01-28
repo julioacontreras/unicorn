@@ -21,8 +21,3 @@
      |-- sections
      |-- template
 ```
-
-### Buttons
-
-* [Button image](/components/buttons/imageLink/README.md)
-* [Link](/components/buttons/link/README.md)
