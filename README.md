@@ -6,7 +6,7 @@
 
 ### What is this
 
-Nuxtjs components using Vue + Tailwind
+[Nuxtjs](https://nuxtjs.org/) components using [Vue](https://vuejs.org/v2/guide/) and [TailwindCSS](https://tailwindcss.com/)
 
 ### Components
 
