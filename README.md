@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/julioacontreras/unicorn/doc/assets/img/logo.png?raw=true" width="120" alt="Kraken Logo" />
+</p>
+
 # Unicorn
 
 Nuxtjs components using Vue + Tailwind
