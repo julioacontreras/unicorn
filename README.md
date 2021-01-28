@@ -18,13 +18,34 @@
 ```
  |-- components
      |-- buttons
+         |-- imageLink
+         |-- link
      |-- content
+         |-- article
      |-- feedback
+         |-- badge
+         |-- tooltip
      |-- inputs
+         |-- inputDate
+         |-- inputPhone
+         |-- inputSelect
+         |-- inputText
      |-- media
+         |-- image
+         |-- video
      |-- nativagion
+         |-- cards
+         |-- carousel
+         |-- menu
      |-- sections
+         |-- banner
+         |-- code
+         |-- info
+         |-- soace
+         |-- title
      |-- template
+         |-- footer
+         |-- header
 ```
 
 ### How to use
