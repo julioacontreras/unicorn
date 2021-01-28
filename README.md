@@ -29,4 +29,4 @@
 
 ### How to use
 
-* Download this repository and copy in your NuctJs project `./components`.
+Download this repository and copy in your NuctJs project `./components`.
