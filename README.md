@@ -57,5 +57,5 @@
 
 ### How to use
 
-* First create your project [here](https://nextjs.org/docs)
-* After download this repository and copy in  `./components`.
+* First create your project follow [this instructions](https://nextjs.org/docs)
+* After that download this repository and copy in  `./components`.
