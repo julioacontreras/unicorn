@@ -18,34 +18,41 @@
 ```
  |-- components
      |-- buttons
-         |-- imageLink
-         |-- link
+     |   |-- imageLink
+     |   |-- link
+     |
      |-- content
-         |-- article
+     |   |-- article
+     |
      |-- feedback
-         |-- badge
-         |-- tooltip
+     |   |-- badge
+     |   |-- tooltip
+     |
      |-- inputs
-         |-- inputDate
-         |-- inputPhone
-         |-- inputSelect
-         |-- inputText
+     |   |-- inputDate
+     |   |-- inputPhone
+     |   |-- inputSelect
+     |   |-- inputText
+     |
      |-- media
-         |-- image
-         |-- video
+     |   |-- image
+     |   |-- video
+     |
      |-- nativagion
-         |-- cards
-         |-- carousel
-         |-- menu
+     |   |-- cards
+     |   |-- carousel
+     |   |-- menu
+     |
      |-- sections
-         |-- banner
-         |-- code
-         |-- info
-         |-- soace
-         |-- title
+     |   |-- banner
+     |   |-- code
+     |   |-- info
+     |   |-- soace
+     |   |-- title
+     |
      |-- template
-         |-- footer
-         |-- header
+     |   |-- footer
+     |   |-- header
 ```
 
 ### How to use
