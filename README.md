@@ -51,8 +51,8 @@
      |   |-- title
      |
      |-- template
-     |   |-- footer
-     |   |-- header
+         |-- footer
+         |-- header
 ```
 
 ### How to use
