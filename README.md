@@ -57,4 +57,5 @@
 
 ### How to use
 
-Download this repository and copy in your NuctJs project `./components`.
+* First create your NuxtJs project [here](https://nextjs.org/docs)
+* After download this repository and copy in  `./components`.
