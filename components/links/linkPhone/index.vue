@@ -1,15 +1,13 @@
 <template>
-  <div>
-    <NuxtLink :to="url">
-      {{ title }}
-    </NuxtLink>
-  </div>
+  <a :href="'tel:' + to" class="hover:underline cursor-pointer">
+    {{ title }}
+  </a>
 </template>
 
 <script>
 export default {
   props: {
-    url: {
+    to: {
       type: String,
       default: ''
     },

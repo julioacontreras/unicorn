@@ -1,17 +1,17 @@
 <template>
-  <div :class="classes" class="flex justify-center py-4 px-5 bg-quaternary">
-    {{ text }}
-  </div>
+  <a :href="'mailto:' + to" class="hover:underline cursor-pointer">
+    {{ title }}
+  </a>
 </template>
 
 <script>
 export default {
   props: {
-    classes: {
+    to: {
       type: String,
       default: ''
     },
-    text: {
+    title: {
       type: String,
       default: ''
     }

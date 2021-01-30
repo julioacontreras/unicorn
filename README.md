@@ -11,21 +11,20 @@
 
 ### Version
 
-* Alpha 0.0.1
+* Alpha 0.0.2
 
 ### Components
 
 ```
  |-- components
-     |-- buttons
-     |   |-- imageLink
-     |   |-- link
-     |
-     |-- content
-     |   |-- article
+     |-- links
+     |   |-- linkEmail
+     |   |-- linkImage
+     |   |-- linkInstagram
+     |   |-- linkNuxt
+     |   |-- linkPhone
      |
      |-- feedback
-     |   |-- badge
      |   |-- tooltip
      |
      |-- inputs
@@ -38,21 +37,12 @@
      |   |-- image
      |   |-- video
      |
-     |-- nativagion
-     |   |-- cards
-     |   |-- carousel
-     |   |-- menu
-     |
      |-- sections
-     |   |-- banner
-     |   |-- code
-     |   |-- info
-     |   |-- space
-     |   |-- title
-     |
-     |-- template
-         |-- footer
-         |-- header
+         |-- banner
+         |-- code
+         |-- info
+         |-- space
+         |-- title
 ```
 
 ### How to use

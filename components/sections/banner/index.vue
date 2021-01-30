@@ -10,7 +10,7 @@
 </template>
 
 <script>
-import Info from '~/components/media/info'
+import Info from '~/components/sections/info'
 import Img from '~/components/media/image'
 
 export default {
